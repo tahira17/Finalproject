@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Final project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_project_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Final project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Final project" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 5.4.11-5.4.11" />
+          <element id="library" level="project" name="activation" />
+          <element id="library" level="project" name="antlr-2.7.7" />
+          <element id="library" level="project" name="byte-buddy-1.10.2" />
+          <element id="library" level="project" name="classmate-1.5.1" />
+          <element id="library" level="project" name="dom4j-2.1.1" />
+          <element id="library" level="project" name="FastInfoset-1.2.15" />
+          <element id="library" level="project" name="hibernate-commons-annotations-5.1.0.Final" />
+          <element id="library" level="project" name="hibernate-core-5.4.10.Final" />
+          <element id="library" level="project" name="istack-commons-runtime-3.0.7" />
+          <element id="library" level="project" name="jandex-2.1.1.Final" />
+          <element id="library" level="project" name="javassist-3.24.0-GA" />
+          <element id="library" level="project" name="javax.activation-api-1.2.0" />
+          <element id="library" level="project" name="javax.faces-2.2.1" />
+          <element id="library" level="project" name="javax.json-1.0" />
+          <element id="library" level="project" name="javax.persistence-api-2.2" />
+          <element id="library" level="project" name="jaxb-api-2.3.1" />
+          <element id="library" level="project" name="jaxb-runtime-2.3.1" />
+          <element id="library" level="project" name="jboss-logging-3.3.2.Final" />
+          <element id="library" level="project" name="jboss-transaction-api_1.2_spec-1.1.1.Final" />
+          <element id="library" level="project" name="json-lib-2.4-jdk15" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="mail" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.23-bin" />
+          <element id="library" level="project" name="recaptcha4j-0.0.7" />
+          <element id="library" level="project" name="stax-ex-1.8" />
+          <element id="library" level="project" name="txw2-2.3.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
