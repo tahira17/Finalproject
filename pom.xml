@@ -59,14 +59,12 @@
 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.5.1</version>
-
+				<artifactId>maven-war-plugin</artifactId>
 				<configuration>
-					<webXml>WEB-INF/web.xml</webXml>
+					<webXml>weba\WEB-INF\web.xml</webXml>
 				</configuration>
-
 			</plugin>
+
         </plugins>
     </build>
 
