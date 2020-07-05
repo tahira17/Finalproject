@@ -11,6 +11,8 @@
 		<dependency>
 			<groupId>javax.servelet</groupId>
 			<artifactId>javax.servelet-api</artifactId>
+			<version>4.0</version>
+			<scope>provided</scope>
 		</dependency>
 
 		<dependency>
