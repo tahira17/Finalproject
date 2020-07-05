@@ -12,8 +12,6 @@ import java.sql.*;
  * Created by mano on 1/27/2020.
  */
 public class LoginDAO {
-
-
     public CustomerRegistration checkLogin(String email, String password) throws SQLException,
             ClassNotFoundException {
         String jdbcURL = "jdbc:mysql://localhost:8081/login";
