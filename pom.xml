@@ -64,7 +64,7 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
-					<webXml>web\WEB-INF\web.xml</webXml>
+					<webxml>web\WEB-INF\web.xml</webxml>
 				</configuration>
 
 			</plugin>
