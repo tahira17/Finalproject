@@ -63,7 +63,7 @@
 				<version>3.5.1</version>
 
 				<configuration>
-					<webXml>web\WEB-INF\web.xml</webXml>
+					<webXml>web/WEB-INF/web.xml</webXml>
 				</configuration>
 
 			</plugin>
